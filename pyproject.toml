@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "beacon-telemetry"
-version = "2.3.1"
+version = "2.4.0"
 description = "A small, dependency-free telemetry SDK."
 readme = "README.md"
 requires-python = ">=3.8"
